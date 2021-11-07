@@ -1,0 +1,1 @@
+Jedyna różnica względem oryginalnych danych jest taka, że w przypadku przerobionych danych nie mamy wartości "bd." dla kolumny płeć. Została ona zastąpiona wartością None.
