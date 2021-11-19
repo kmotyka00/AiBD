@@ -11,7 +11,7 @@ W celu przerobienia i zrozumienia oryginalnych danych powinieneś:
 - /OriginalData/Metadata/Metadata_guide.md to plik opisowy, który pomoże Ci zrozumieć oryginalne dane i wartości, które dane zmienne mogą przyjmować.
 
 ## Analysis Data
-- /AnalysisData/tb_clean.csv to plik z rezultatami naszych analiz. Plik ten zawiera oczyszczone dane. 
+- /AnalysisData/swietokrzyskie_clean.csv to plik z rezultatami naszych analiz. Plik ten zawiera oczyszczone dane. 
 
 ## Documents
 - /Documents/AppendixData.md zawiera informacje o strukturze oczyszczonych danych.
